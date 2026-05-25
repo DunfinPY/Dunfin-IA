@@ -24,3 +24,4 @@ npm install
 echo "GROQ_API_KEY=tu_key" > .env
 npm run dev
 ```
+.
